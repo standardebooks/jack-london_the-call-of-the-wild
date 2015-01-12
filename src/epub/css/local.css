@@ -1,0 +1,31 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+section[epub|type~="epigraph"] blockquote{
+	margin: 5em auto;
+	max-width: 50%;
+}
+
+*[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:verse"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:verse"] br{
+	display: none;
+}
+
+p span.i1{
+	text-indent: 1em;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
