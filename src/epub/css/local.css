@@ -1,9 +1,13 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+#chapter-5 abbr{
+	font-variant: all-small-caps;
+}
+
 section[epub|type~="epigraph"] blockquote{
 	margin: 5em auto;
-	max-width: 50%;
+	max-width: 75%;
 }
 
 *[epub|type~="z3998:verse"] p{
@@ -22,7 +26,7 @@ section[epub|type~="epigraph"] blockquote{
 }
 
 p span.i1{
-	text-indent: 1em;
+	text-indent: 0;
 }
 
 span[epub|type~="subtitle"]{

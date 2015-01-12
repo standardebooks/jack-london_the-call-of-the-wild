@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-01-12T20:05:20Z</meta>
+		<meta property="dcterms:modified">2015-02-05T06:33:02Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -12,35 +12,51 @@
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
 		<dc:title id="title">The Call of the Wild</dc:title>
 		<meta property="file-as" refines="#title">Call of the Wild, The</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
+		<dc:subject id="subject-1">Dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Adventure stories</dc:subject>
+		<dc:subject id="subject-3">Nature stories</dc:subject>
+		<dc:subject id="subject-4">Klondike River Valley (Yukon) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Sled dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-6">Pet theft -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Feral dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Animal welfare -- Fiction</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-5">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-6">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-7">http://www.gutenberg.org/ebooks/215</meta>
+		<meta property="meta-auth" refines="#subject-8">http://www.gutenberg.org/ebooks/215</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta property="se:long-description" refines="#description"><![CDATA[
-			LONGDESCRIPTION
-		]]></meta>
+		<dc:description id="description">The story of a domesticated dog's return to a primitive state in the late 19th-century Yukon.</dc:description>
+		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Jack London spent nearly a year in Alaska and the Klondike, mining for gold and braving the Alaskan winter.  There he was inspired to write what would become &lt;i&gt;The Call of the Wild&lt;/i&gt;, one of his most famous novels.  &lt;i&gt;The Call of the Wild&lt;/i&gt; tells the tale of a domesticated dog stolen from his California family and sold to sledders in Alaska.  As he adapts to the harsh and wild environment, he slowly sheds domestication and returns to his primal roots.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Call of the Wild&lt;/i&gt; was London&amp;rsquo;s first major success, ensuring he&amp;rsquo;d have a readership for his future writing and paving the way for him to become one of the first writers to amass a fortune from just his fiction.&lt;/p&gt;
+		</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>http://www.gutenberg.org/ebooks/215</dc:source>
 		<dc:source>https://archive.org/stream/callofthewild00lond</dc:source>
-		<meta property="se:word-count">31801</meta>
+		<meta property="se:word-count">31972</meta>
 		<meta property="se:url.wikipedia">http://en.wikipedia.org/wiki/The_Call_of_the_Wild</meta>
 		<dc:creator id="author">Jack London</dc:creator>
 		<meta property="file-as" refines="#author">London, Jack</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Griffith "Jack" London</meta>
 		<meta property="se:url.wikipedia" refines="#author">http://en.wikipedia.org/wiki/Jack_London</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.wikipedia" refines="#artist">WIKILINK</meta>
+		<dc:contributor id="artist">Alfred Kowalski</dc:contributor>
+		<meta property="file-as" refines="#artist">Kowalski, Alfred</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Alfred Jan Maksymilian Kowalski</meta>
+		<meta property="se:url.wikipedia" refines="#artist">http://en.wikipedia.org/wiki/Alfred_Kowalski</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Ryan Trapp</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Trapp, Ryan</meta>
@@ -61,6 +77,7 @@
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
@@ -72,7 +89,7 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/logo.png" id="logo.png" media-type="image/png"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
