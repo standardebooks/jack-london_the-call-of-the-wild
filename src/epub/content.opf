@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-15T23:33:36Z</meta>
+		<meta property="dcterms:modified">2015-05-12T05:31:34Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -48,6 +48,7 @@
 		<dc:source>https://archive.org/stream/callofthewild00lond</dc:source>
 		<meta property="se:word-count">31972</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Call_of_the_Wild</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_the-call-of-the-wild</meta>
 		<dc:creator id="author">Jack London</dc:creator>
 		<meta property="file-as" refines="#author">London, Jack</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Griffith "Jack" London</meta>
