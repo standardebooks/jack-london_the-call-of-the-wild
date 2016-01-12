@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-12-10T22:47:37Z</meta>
+		<meta property="dcterms:modified">2016-01-12T00:38:43Z</meta>
 		<dc:rights>Public domain; see the Unlicense included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,7 +36,7 @@
 		<meta property="meta-auth" refines="#subject-8">http://www.gutenberg.org/ebooks/215</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The story of a domesticated dog's return to a primitive state in the late 19th-century Yukon.</dc:description>
+		<dc:description id="description">The story of a domesticated dog’s return to a primitive state in the late 19th-century Yukon.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Jack London spent nearly a year in Alaska and the Klondike, mining for gold and braving the Alaskan winter.  There he was inspired to write what would become &lt;i&gt;The Call of the Wild&lt;/i&gt;, one of his most famous novels.  &lt;i&gt;The Call of the Wild&lt;/i&gt; tells the tale of a domesticated dog stolen from his California family and sold to sledders in Alaska.  As he adapts to the harsh and wild environment, he slowly sheds domestication and returns to his primal roots.&lt;/p&gt;
