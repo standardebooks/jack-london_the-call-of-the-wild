@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-10-25T18:19:19Z</meta>
-		<meta property="se:revision-number">30</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:29Z</meta>
+		<meta property="se:revision-number">31</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,7 +41,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Jack London spent nearly a year in Alaska and the Klondike, mining for gold and braving the Alaskan winter.  There he was inspired to write what would become &lt;i&gt;The Call of the Wild&lt;/i&gt;, one of his most famous novels.  &lt;i&gt;The Call of the Wild&lt;/i&gt; tells the tale of a domesticated dog stolen from his California family and sold to sledders in Alaska.  As he adapts to the harsh and wild environment, he slowly sheds domestication and returns to his primal roots.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Call of the Wild&lt;/i&gt; was London&amp;rsquo;s first major success, ensuring he&amp;rsquo;d have a readership for his future writing and paving the way for him to become one of the first writers to amass a fortune from just his fiction.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Call of the Wild&lt;/i&gt; was London’s first major success, ensuring he’d have a readership for his future writing and paving the way for him to become one of the first writers to amass a fortune from just his fiction.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
