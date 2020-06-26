@@ -55,6 +55,9 @@
 		<meta property="term" refines="#subject-8">sh2007101130</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">88</meta>
 		<dc:description id="description">The story of a domesticated dog’s return to a primitive state in the late 19th-century Yukon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London&lt;/a&gt; spent nearly a year in Alaska and the Klondike, mining for gold and braving the Alaskan winter. There he was inspired to write what would become &lt;i&gt;The Call of the Wild&lt;/i&gt;, one of his most famous novels. &lt;i&gt;The Call of the Wild&lt;/i&gt; tells the tale of a domesticated dog stolen from his California family and sold to sledders in Alaska. As he adapts to the harsh and wild environment, he slowly sheds domestication and returns to his primal roots.&lt;/p&gt;
