@@ -20,11 +20,6 @@ p span.i1{
 	text-indent: 0;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
