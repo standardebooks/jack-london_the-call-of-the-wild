@@ -69,8 +69,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/215</dc:source>
 		<dc:source>https://archive.org/details/callofthewild00lond</dc:source>
-		<meta property="se:word-count">32031</meta>
-		<meta property="se:reading-ease.flesch">77.47</meta>
+		<meta property="se:word-count">32030</meta>
+		<meta property="se:reading-ease.flesch">77.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Call_of_the_Wild</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_the-call-of-the-wild</meta>
 		<dc:creator id="author">Jack London</dc:creator>
