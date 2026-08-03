@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
@@ -65,11 +65,11 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">38</meta>
-		<dc:description id="description">The story of a domesticated dog’s return to a primitive state in the late 19th-century Yukon.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The story of a domesticated dog’s return to a primitive state in the late 19th-century Yukon.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London&lt;/a&gt; spent nearly a year in Alaska and the Klondike, mining for gold and braving the Alaskan winter. There he was inspired to write what would become &lt;i&gt;The Call of the Wild&lt;/i&gt;, one of his most famous novels. &lt;i&gt;The Call of the Wild&lt;/i&gt; tells the tale of a domesticated dog stolen from his California family and sold to sledders in Alaska. As he adapts to the harsh and wild environment, he slowly sheds domestication and returns to his primal roots.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Call of the Wild&lt;/i&gt; was London’s first major success, ensuring he’d have a readership for his future writing and paving the way for him to become one of the first writers to amass a fortune from just his fiction.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/215</dc:source>
 		<dc:source>https://archive.org/details/callofthewild00lond</dc:source>
