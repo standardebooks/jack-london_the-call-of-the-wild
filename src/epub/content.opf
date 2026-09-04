@@ -30,14 +30,14 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Call of the Wild</dc:title>
 		<meta property="file-as" refines="#title">Call of the Wild, The</meta>
-		<dc:subject id="subject-1">Dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Dogs--Fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">Nature stories</dc:subject>
-		<dc:subject id="subject-4">Klondike River Valley (Yukon) -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Sled dogs -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Pet theft -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Feral dogs -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Animal welfare -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Klondike River Valley (Yukon)--Fiction</dc:subject>
+		<dc:subject id="subject-5">Sled dogs--Fiction</dc:subject>
+		<dc:subject id="subject-6">Pet theft--Fiction</dc:subject>
+		<dc:subject id="subject-7">Feral dogs--Fiction</dc:subject>
+		<dc:subject id="subject-8">Animal welfare--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008102051</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
